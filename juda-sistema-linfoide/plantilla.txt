@@ -1,0 +1,178 @@
+ <div class="contFour">
+        <div class="boxFour">1</div>
+        <div class="boxFour">2</div>
+        <div class="boxFour">3</div>
+        <div class="boxFour">4</div>
+    </div>
+  <div class="contThree">
+        <div class="boxThree">5</div>
+        <div class="boxThree">6</div>
+        <div class="boxThree">7</div>
+    </div>
+    <div class="contTwo">
+        <div class="boxTwo">8</div>
+        <div class="boxTwo">9</div>
+    </div>
+    <div class="contOne">
+        <div class="boxOne">10</div>
+    </div>
+------------------------------------------------------------------------
+INDEX Y LETRA
+    <!-- LINK CSS INDEX -->
+    <link rel="stylesheet" href="css/index.css">
+    <!-- LINK API DE FUENTE GOOGLE -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
+----------------------------------------------------------------------------
+SANDWITCH DE 3 IMG
+<div class="contOne" style="margin-top: 5%;">
+        <div class="boxOne">
+            <div class="cont-text">
+                <h2 class="title">Fosas nasales</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+            </div>
+            <br>
+        </div>
+    </div>
+    <div class="contThree">
+        <div class="boxThree">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 1%;  margin-bottom: 10%;">
+            </figure>
+        </div>
+        <div class="boxThree">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 8%;  margin-bottom: 10%;">
+            </figure>
+        </div>
+        <div class="boxThree">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 5%;  margin-bottom: 10%;">
+            </figure>
+        </div>
+    </div>  
+    <div class="contOne">
+        <div class="boxOne">
+            <div class="cont-text">
+                <h2 class="title">Función</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+		<p class="para"></p>
+            </div>
+            <br>
+        </div> 
+    </div> 
+-----------------------------------------------------------------------------------------
+DOBLE VERTICAL UNA IMAGEN UN TEXTO
+<div class="contTwo">
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 40%; margin-bottom: 40%">
+            </figure>
+        </div>
+        <div class="boxTwo">
+            <div class="cont-text">
+                <h2 class="title">Región respiratoria</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+            </div>
+            <br>
+        </div>
+    </div>
+    <div class="contTwo">
+        <div class="boxTwo">
+            <div class="cont-text">
+                <h2 class="title">Función</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+		<p class="para"></p>
+            </div>
+            <br>
+        </div>
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 40%; margin-bottom: 40%">
+            </figure>
+        </div>
+    </div>
+------------------------------------------------------------------------------------------------------
+GALERIA DE 4 IMAGENES
+
+<h1 class="title-principal" style="color: whitesmoke;">GALERIA DE VÉNULAS</h1>
+    <div class="contTwo">
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 10%; margin-bottom: 10%">
+            </figure>
+        </div>
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 10%; margin-bottom: 10%">
+            </figure>
+        </div>
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 10%; margin-bottom: 10%">
+            </figure>
+        </div>
+    </div>
+    
+-----------------------------------------------------------------------------------------------
+ <!--BOTONES-->
+      <div class="contOne" style="background-color: #D5779C;">
+        <div class="boxOne">
+            <div class="contTwo">
+                <div class="boxTwo" style="background-color: #D5779C;">
+                    <div class="button" style="background-color: #D5779C;">
+                        <li><a href="index.html">Prev</a>
+                    </div>
+                </div>
+                <div class="boxTwo" style="background-color: #D5779C;">
+                    <div class="button" style="background-color: #D5779C;">
+                        <li><a href="">Next</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+-----------------------------------------------------------------------------------------------------------
+    <!-- FOOTER -->
+     <br><br><br>
+     <footer class="pie-pagina" id="pie" style="background-color: rgb(0, 0, 0);">
+        <div class="grupo-1">
+            <div class="box-footer">
+             
+            </div>
+            <div class="box-footer">
+                <h2 style="font-family: 'Didact Gothic', sans-serif;">DIAGRAMA DEL SISTEMA LINFOIDE.</h2>
+                <p style="font-family: 'Didact Gothic', sans-serif;" >Contenido por:&nbsp;&nbsp;<b>Juda Levi Herrera García.</b></p>
+                <br>
+                <a href="https://www.instagram.com/wizzzzzzrd/?igshid=ZDdkNTZiNTM%3D">
+                  <p style="font-family: 'Didact Gothic', sans-serif;">Desarrollada por :&nbsp;&nbsp;<b><i class="fa-solid fa-microchip"></i>&nbsp;Wizzzzzzrd</b></p>
+                </a>
+            </div>
+        </div>
+        <div class="grupo-2">
+            <small>&copy; 2023 <b>Wizzzzzzrd</b> - Todos los Derechos Reservados.</small>
+        </div>
+    </footer>
+    
+    <!-- ESTILOS AGREGADOS -->
+    <style>
+        a{
+            text-decoration:none;            
+        }
+    </style>
+    <div id="pie"></div>
