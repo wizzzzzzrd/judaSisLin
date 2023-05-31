@@ -14,8 +14,8 @@ a{
 }
 body{
     background-color: #6C99D9;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
     max-width: 100%;
 }
 .contFour{
@@ -40,7 +40,7 @@ body{
 .contThree{
     width: 100%;
     height: auto;
-    background-color: rgb(3, 3, 3);
+    background-color: #6C99D9;
 
     display: flex;
     flex-direction: row;
@@ -69,7 +69,7 @@ body{
     width: 47%;
     height: auto;
     background-color: rgb(137, 62, 156);
-    margin: 20px;
+    margin: 18px;
     box-sizing: border-box;
     overflow: hidden;
     border-radius: 5%;
@@ -82,6 +82,7 @@ body{
     flex-direction: row;
     justify-content: space-around;
     flex-flow: wrap;
+    background-color: #6C99D9;
 }
 .boxOne{
     width: 97%;
@@ -91,6 +92,7 @@ body{
     box-sizing: border-box;
     overflow: hidden;
     border-radius: .8%;
+    
 }
 .cont-img{
     display: flex;
@@ -106,6 +108,7 @@ body{
     margin-left: 5%;
     margin-right: 5%;
     max-width: 100%;
+    margin-bottom: 5%;
 }
 .title-principal{
     margin-top: 1%;
@@ -113,6 +116,7 @@ body{
     font-family: 'Didact Gothic', sans-serif;
     font-size: 6.5em;
     text-align: center;
+    color: whitesmoke;
 }
 .title{
     margin-top: 3%;
@@ -138,11 +142,11 @@ body{
 }
 .cont-text a :hover{
     background-color: #6C99D9;
-    color: rgb(255, 255, 255);
+    color: whitesmoke;
     border-radius: 2%;
 }
 .button{
-    margin-left: 38%;
+    margin-left: 48%;
 }
 .button li a{
     background-color: blue;
@@ -311,3 +315,5 @@ body{
         padding: 35px 0px;
     }
 }
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
